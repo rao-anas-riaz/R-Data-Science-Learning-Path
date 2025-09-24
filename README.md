@@ -2,7 +2,7 @@
 
 You can explore the complete, interactive learning path by opening the `R-Data-Science-Learning-Path.html` file in any modern web browser.
 
-**[Click here to view the live project](https://rao-anas-riaz.github.io/R-Data-Science-Learning-Path/)**
+**[Click here to view the live project](https://rao-anas-riaz.github.io/R-Data-Science-Learning-Path/R-Data-Science-Learning-Path.html)**
 
 ---
 
@@ -96,5 +96,6 @@ Each node in the tree is clickable and directly navigates to the corresponding t
 ## 7. License & Ownership
 
 This project is the proprietary intellectual property of the author. **All Rights Reserved.**
+
 
 Unauthorized copying, reproduction, distribution, or use of this software is prohibited. Please see the [LICENSE](LICENSE) file for the full terms.
